@@ -5,5 +5,6 @@
 pip install -r requirements.txt
 
 # 根据实际情况修改shell脚本
+cd ~/src/infini_test/benchmark
 bash benchmark/run_benchmark.sh
 ```
